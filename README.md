@@ -1,2 +1,3 @@
 # react-project-templates
- Templates for React projects
+
+Templates for React projects
